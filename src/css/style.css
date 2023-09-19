@@ -248,7 +248,7 @@ body {
   display: block;
   margin: 40% auto;
   font-size: 45px;
-  color: #FFF;
+  color: #00F;
 }
 
 #app #selected {
@@ -274,7 +274,7 @@ body {
   margin: 0 auto;
   margin-top: 72%;
   font-size: 45px;
-  color: #FFF;
+  color: #F00;
 }
 
 @keyframes congrate {
